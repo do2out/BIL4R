@@ -1,5 +1,5 @@
 K375s	koji
-プリンタテープ	koji
+プリンターテープ	koji
 パワーパッド10	koji
 
-abs blt 	EMS
+abs blt ジェルシート	EMS
